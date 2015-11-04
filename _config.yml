@@ -1,6 +1,6 @@
 name: storytellersoflife
 favicon: null
-layout_spectrum: 0.7085106
+layout_spectrum: 0.87931
 typography_spectrum: 0.0002645361237227917
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#aa6d62'
     - '#5c575e'
     - '#afa293'
-  brandStrength: 0.5
+  brandStrength: 0.25
   lightness: 0.7808511
   saturation: 0.5404255
   rhythmicContrast: 0.6234043
