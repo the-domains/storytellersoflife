@@ -1,23 +1,35 @@
-name: storytellersoflife
 favicon: null
-layout_spectrum: 0.7546794016379863
-typography_spectrum: 0.00026453612372279167
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: storytellersoflife
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.6019247542135417
-  lightness: 0.8463839665055275
-  saturation: 0.5222617615945637
-  rhythmicContrast: 0.9246885583270341
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5222617615945637
+  brandStrength: 0.6019247542135417
+  rhythmicContrast: 0.9246885583270341
+  brandColors: []
+  lightness: 0.8463839665055275
+typography_spectrum: 0.0002645361237227917
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5765957
+analytics:
+  twitter: null
+  google: null
+  facebook: null
