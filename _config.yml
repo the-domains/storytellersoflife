@@ -1,7 +1,7 @@
 name: storytellersoflife
 favicon: null
 layout_spectrum: 0.87931
-typography_spectrum: 0.0002645361237227917
+typography_spectrum: 0.40223
 collections:
   - index:
       path: /
