@@ -1,9 +1,7 @@
-favicon: null
 name: storytellersoflife
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7085106
+typography_spectrum: 0.0002645361237227917
 collections:
   - index:
       path: /
@@ -16,20 +14,22 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.5404255
-  brandStrength: 0.6019247542135417
-  lightness: 0.7808511
-  brandColors: []
-  rhythmicContrast: 0.6234043
-typography_spectrum: 0.0002645361237227917
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.7085106
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5
+  lightness: 0.7808511
+  saturation: 0.5404255
+  rhythmicContrast: 0.6234043
+purpose: []
