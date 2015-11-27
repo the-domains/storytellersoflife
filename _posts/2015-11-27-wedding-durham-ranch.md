@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2015-11-27T12:39:23.524Z'
+datePublished: '2015-11-27T12:39:44.983Z'
 publisher:
   domain: ''
   name: ''
 title: Wedding Durham Ranch
-dateModified: '2015-11-09T19:08:30.815Z'
+dateModified: '2015-11-27T12:39:23.524Z'
 sourcePath: _posts/2015-11-27-wedding-durham-ranch.md
 published: true
 inFeed: true
