@@ -17,8 +17,8 @@ keywords:
   - tudo
   - agradecer
 description: 'Assim mesmo. Olho no olho. Nú. De peito aberto. Com este retrato único e maravilhoso que ganhei de um dos fotógrafos mais especiais deste planeta, o...'
-datePublished: '2015-12-24T00:45:23.802Z'
-dateModified: '2015-12-24T00:39:42.044Z'
+datePublished: '2015-12-24T00:46:28.068Z'
+dateModified: '2015-12-24T00:45:23.802Z'
 author:
   - avatar:
       src: 'https://scontent.xx.fbcdn.net/hphotos-xpl1/v/t1.0-9/p720x720/12196359_1072888276063846_5338646098667650160_n.jpg?oh=a5144e0553c773104adc531398b2b316&oe=56B67FC9'
