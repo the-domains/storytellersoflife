@@ -1,3 +1,4 @@
+favicon: null
 analytics:
   twitter: null
   google: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0
-  lightness: 1
   brandStrength: 0.5234042
+  lightness: 0.493617
   brandColors:
     - '#010104'
     - '#395B78'
     - '#01304C'
     - '#423843'
     - '#AC8988'
-  rhythmicContrast: 0
-typography_spectrum: 0.40223
+  rhythmicContrast: 1
+typography_spectrum: 0.3085106
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2617021
-favicon: null
 name: storytellersoflife
