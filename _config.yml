@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: storytellersoflife
 opengraph:
   image: null
   type: null
@@ -20,7 +18,7 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0
+  saturation: 0.5106383
   brandStrength: 0.5170213
   lightness: 1
   brandColors:
@@ -29,12 +27,14 @@ color:
     - '#A5A5A5'
     - '#38393D'
     - '#AE7D01'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 typography_spectrum: 0.2276596
-layout_spectrum: 0.4978724
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: storytellersoflife
+layout_spectrum: 0.4978724
